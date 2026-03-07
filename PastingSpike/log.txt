@@ -1,0 +1,383 @@
+2026-03-06 15:50:54.009 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 15:50:54.085 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 15:50:54.086 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 15:50:54.096 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 15:50:54.097 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 15:50:54.097 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 15:50:54.123 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 15:50:54.439 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 15:50:54.706 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 15:50:54.713 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 15:50:57.948 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 15:53:08.777 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 15:53:08.778 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 15:53:08.778 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 15:53:08.778 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 15:53:08.779 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 15:53:08.779 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 15:53:08.779 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 15:53:08.810 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 15:53:08.811 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 15:53:08.811 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 15:53:10.079 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 15:53:15.713 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 15:53:15.713 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 15:53:15.714 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 15:53:15.714 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 15:53:15.714 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 15:53:15.714 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 15:53:15.714 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 15:53:15.730 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 15:53:15.730 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 15:53:15.731 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 15:53:17.563 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 15:53:27.462 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 15:53:27.462 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 15:53:27.462 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 15:53:27.462 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 15:53:27.463 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 15:53:27.463 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 15:53:27.463 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 15:53:27.480 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 15:53:27.481 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 15:53:27.481 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 15:53:29.739 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 16:00:33.262 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 16:00:33.321 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 16:00:33.321 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 16:00:33.329 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 16:00:33.330 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 16:00:33.330 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 16:00:33.338 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 16:00:33.486 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 16:00:33.590 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 16:00:33.594 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 16:00:36.940 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 16:00:49.686 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 16:00:49.686 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 16:00:49.686 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 16:00:49.687 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 16:00:49.687 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 16:00:49.687 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 16:00:49.687 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 16:00:49.707 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 16:00:49.707 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 16:00:49.707 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 16:00:52.638 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 16:01:05.229 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 16:01:05.229 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 16:01:05.230 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 16:01:05.231 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 16:01:05.232 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 16:01:05.232 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 16:01:05.233 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 16:01:05.277 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 16:01:05.278 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 16:01:05.278 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 16:01:07.835 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 16:07:38.674 [Information] DeepgramHttpClientOptions: OnPrem: False
+2026-03-06 16:07:38.793 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2026-03-06 16:07:38.794 [Information] DeepgramHttpClientOptions: API KEY set from parameter
+2026-03-06 16:07:38.825 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 16:07:38.827 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2026-03-06 16:07:38.828 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2026-03-06 16:07:38.856 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2026-03-06 16:10:30.931 [Information] TranscribeFile: source: System.IO.MemoryStream
+2026-03-06 16:10:31.062 [Information] TranscribeFile: prerecordedSchema:
+{
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "smart_format": true
+}
+2026-03-06 16:10:31.068 [Information] PostAsync<R, S, T>: Using default timeout: 30000
+2026-03-06 16:10:33.824 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2026-03-06 20:19:21.870 [Information] DeepgramWsClientOptions: KeepAlive: False
+2026-03-06 20:19:21.945 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:19:21.950 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:19:21.954 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:19:21.972 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:19:21.977 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:19:21.982 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:19:22.205 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:19:22.286 [Information] Connect: Using default connect cancellation token
+2026-03-06 20:19:25.893 [Warning] SendClose: ClientWebSocket is null or not connected. Skipping...
+2026-03-06 20:19:37.832 [Information] ProcessReceiveQueue: Received WebSocket Close. Trigger cancel...
+2026-03-06 20:19:37.839 [Information] Stop: Using default disconnect cancellation token
+2026-03-06 20:27:07.903 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 20:27:07.968 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:27:07.968 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:27:07.968 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:27:07.977 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:27:07.978 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:27:07.978 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:27:08.134 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:27:08.176 [Information] Connect: Using default connect cancellation token
+2026-03-06 20:27:17.286 [Warning] Connect: Connect failed
+2026-03-06 20:44:07.285 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 20:44:07.347 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:44:07.348 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:44:07.348 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:44:07.361 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:44:07.362 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:44:07.362 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:44:07.563 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:47:22.568 [Error] ProcessReceiveQueue: System.Net.WebSockets.WebSocketException thrown The remote party closed the WebSocket connection without completing the close handshake.
+2026-03-06 20:54:29.719 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 20:54:29.780 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:54:29.783 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:54:29.786 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:54:29.799 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:54:29.803 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:54:29.806 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:54:29.968 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:55:08.790 [Information] ProcessReceiveQueue: Received WebSocket Close. Trigger cancel...
+2026-03-06 20:55:08.795 [Information] Stop: Using default disconnect cancellation token
+2026-03-06 20:55:09.251 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 20:55:09.267 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:55:09.269 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:55:09.271 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:55:09.274 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:55:09.277 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:55:09.279 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:55:09.282 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:55:09.290 [Error] Stop: System.NullReferenceException thrown Object reference not set to an instance of an object.
+2026-03-06 20:55:09.294 [Error] ProcessReceiveQueue: System.NullReferenceException thrown Object reference not set to an instance of an object.
+2026-03-06 20:55:42.877 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 20:55:42.939 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:55:42.939 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:55:42.940 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:55:42.949 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:55:42.950 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:55:42.950 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:55:43.127 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:58:07.191 [Information] ProcessReceiveQueue: Received WebSocket Close. Trigger cancel...
+2026-03-06 20:58:07.195 [Information] Stop: Using default disconnect cancellation token
+2026-03-06 20:58:07.491 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 20:58:07.491 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 20:58:07.491 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 20:58:07.491 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 20:58:07.492 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 20:58:07.492 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 20:58:07.492 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 20:58:07.493 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 20:58:07.499 [Error] Stop: System.NullReferenceException thrown Object reference not set to an instance of an object.
+2026-03-06 20:58:07.507 [Error] ProcessReceiveQueue: System.NullReferenceException thrown Object reference not set to an instance of an object.
+2026-03-06 20:58:37.510 [Warning] Connect: Connect failed
+2026-03-06 21:03:13.945 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 21:03:14.012 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 21:03:14.013 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 21:03:14.013 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 21:03:14.027 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 21:03:14.028 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 21:03:14.028 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 21:03:14.198 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 21:03:31.685 [Error] ProcessReceiveQueue: System.Net.WebSockets.WebSocketException thrown The remote party closed the WebSocket connection without completing the close handshake.
+2026-03-06 21:09:21.317 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 21:09:21.389 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 21:09:21.390 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 21:09:21.390 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 21:09:21.405 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 21:09:21.406 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 21:09:21.406 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 21:09:21.597 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 21:11:45.289 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 21:11:45.290 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 21:11:45.290 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 21:11:45.290 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 21:11:45.291 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 21:11:45.292 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 21:11:45.292 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 21:11:45.293 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 21:11:48.165 [Information] ProcessReceiveQueue: Received WebSocket Close. Trigger cancel...
+2026-03-06 21:11:48.166 [Information] Stop: Using default disconnect cancellation token
+2026-03-06 21:11:50.295 [Error] ProcessKeepAlive: System.NullReferenceException thrown Object reference not set to an instance of an object.
+2026-03-06 21:12:15.316 [Warning] Connect: Connect failed
+2026-03-06 21:16:36.824 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 21:16:36.874 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 21:16:36.874 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 21:16:36.874 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 21:16:36.888 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 21:16:36.889 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 21:16:36.889 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 21:16:37.067 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 21:26:11.595 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 21:26:11.649 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 21:26:11.649 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 21:26:11.649 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 21:26:11.657 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 21:26:11.658 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 21:26:11.658 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 21:26:11.824 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "endpointing": "10",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true,
+  "utterance_end_ms": "100"
+}
+2026-03-06 21:26:21.398 [Error] Connect: System.Net.WebSockets.WebSocketException thrown The server returned status code '400' when status code '101' was expected.
+2026-03-06 21:26:21.435 [Error] Connect: System.Net.WebSockets.WebSocketException thrown The server returned status code '400' when status code '101' was expected.
+2026-03-06 21:27:13.108 [Information] DeepgramWsClientOptions: KeepAlive: True
+2026-03-06 21:27:13.178 [Information] DeepgramWsClientOptions: OnPrem: False
+2026-03-06 21:27:13.179 [Information] DeepgramWsClientOptions: APIVersion: v1
+2026-03-06 21:27:13.179 [Information] DeepgramWsClientOptions: API KEY set from parameter
+2026-03-06 21:27:13.191 [Information] DeepgramWsClientOptions: WS BaseAddress does not contain API version: api.deepgram.com
+2026-03-06 21:27:13.191 [Information] DeepgramWsClientOptions: BaseAddress does not contain protocol: api.deepgram.com/v1
+2026-03-06 21:27:13.191 [Information] DeepgramWsClientOptions: BaseAddress: wss://api.deepgram.com/v1
+2026-03-06 21:27:13.318 [Information] Connect: options:
+{
+  "channels": 1,
+  "encoding": "linear16",
+  "language": "en",
+  "model": "nova-2",
+  "punctuate": true,
+  "sample_rate": 16000,
+  "smart_format": true
+}
+2026-03-06 21:38:05.852 [Error] ProcessReceiveQueue: System.Net.WebSockets.WebSocketException thrown The remote party closed the WebSocket connection without completing the close handshake.
